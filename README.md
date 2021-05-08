@@ -25,3 +25,8 @@ and his phone number
 
 Note2:
 Just a simple integration nothing serious and if you encounter any mistakes please i am here
+
+
+Note3:
+
+You may notice so many libraries but every thing besides the pyrebase are for other sending messages ways such ass sending to a wep app or to an android app etc...
