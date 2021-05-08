@@ -9,9 +9,10 @@ you can login with your email and password
 you can signup by adding your data:
 1. first name
 2. last name
-3.email
-4.phone number
-5.password and verifying it
+3. email
+4. phone number
+5. password and verifying it
+
 
 after you finish entering the previous data you'll get redirected to a simple verifivation page you solve a reCaptcha code gets sended to your phone number and you verify it
 
