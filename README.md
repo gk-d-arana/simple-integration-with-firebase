@@ -20,7 +20,7 @@ after you finish entering the previous data you'll get redirected to a simple ve
 
 Note:
 
-every user when he signs up a new child gets added to the real time data base and in the authentication seciton his email and password are added
+When a user signs up a new child gets added to the real time data base and in the authentication seciton his email and password are added
 and his phone number
 
 Note2:
